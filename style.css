@@ -1,0 +1,34 @@
+.titre1 {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 110px;
+    color: #8dff8e;
+}
+
+.header {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 80px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+body {
+    background-image: url('vacances.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.horaire {
+    font-family: "Jost", sans-serif;
+    font-size: 35px;
+    color: #f0f8ff;
+    text-decoration: underline;
+}
+
